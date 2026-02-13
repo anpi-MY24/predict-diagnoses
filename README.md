@@ -1,7 +1,7 @@
 # predict-diagnoses
 This repository is a Machine Learning project that assesses the viability of predicting diagnoses from a mental health survey.
 
-The analysis was conducted on the **University Student Mental Health Survey** dataset. [1]
+The analysis was conducted on the **University Student Mental Health Survey** dataset. [[1]](#1)
 
 ## References
 <a id="1">[1]</a> 
